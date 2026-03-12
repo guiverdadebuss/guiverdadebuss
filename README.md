@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Gui, pleasure to meet you!
+
+Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,figma,github,linux,py,visualstudio,vscode,)](https://skillicons.dev)
+
+Studying and improving... getting better day by day...
+
 <!--
 **guiverdadebuss/guiverdadebuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
