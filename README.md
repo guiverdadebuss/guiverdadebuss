@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 
 [instagram]: [https://instagram.com/matheusm.l](https://www.instagram.com/guilherme.buss/)
-[linkedin]: www.linkedin.com/in/guilherme-verdade-buss-527444359
+[linkedin]: www.linkedin.com/in/guilhermeverdadebuss
