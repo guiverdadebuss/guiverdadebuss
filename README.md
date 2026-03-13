@@ -13,8 +13,8 @@ Developing to become a Charizard one day!
 
 
 ### Conecte-se comigo!
-[<img align="left" alt="D4T4TR4CK3R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="D4T4TR4CK3R | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="D4T4TR4CK3R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/guilherme-verdade-buss-527444359]
+[<img align="left" alt="D4T4TR4CK3R | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/guilherme.buss/]
 
 <br />
 
