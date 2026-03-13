@@ -12,6 +12,12 @@ Developing to become a Charizard one day!
 [![Spotify](https://novatorem-rho.vercel.app/api/spotify)](https://open.spotify.com/user/qafewa5yyynzm3mozdtsywibq)
 
 
+### Conecte-se comigo!
+[<img align="left" alt="D4T4TR4CK3R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="D4T4TR4CK3R | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiverdadebuss&layout=compact)
 
 <!--
