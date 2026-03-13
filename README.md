@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 -->
 
 
-[instagram]: [https://instagram.com/matheusm.l](https://www.instagram.com/guilherme.buss/)
-[linkedin]: www.linkedin.com/in/guilhermeverdadebuss
+[instagram]: [https://instagram.com/guilherme.buss/](https://www.instagram.com/guilherme.buss/)
+[linkedin]: [www.linkedin.com/in/guilhermeverdadebuss](www.linkedin.com/in/guilhermeverdadebuss)
