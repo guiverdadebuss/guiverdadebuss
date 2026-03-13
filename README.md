@@ -9,14 +9,7 @@ I am Gui, pleasure to meet you!
 Studying and improving... getting better day by day...
 Developing to become a Charizard one day!
 <br />
-### Conecte-se comigo!
 
-[<img align="left" alt="D4T4TR4CK3R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="D4T4TR4CK3R | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiverdadebuss&layout=compact)
 
@@ -34,7 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[instagram]: [https://instagram.com/guilherme.buss/](https://www.instagram.com/guilherme.buss/)
-[linkedin]: [www.linkedin.com/in/guilhermeverdadebuss](www.linkedin.com/in/guilhermeverdadebuss)
