@@ -9,6 +9,8 @@ Skills:
 Studying and improving... getting better day by day...
 Developing to become a Charizard one day!
 
+[![Spotify](https://novatorem-rho.vercel.app/api/spotify)](https://open.spotify.com/user/qafewa5yyynzm3mozdtsywibq)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiverdadebuss&layout=compact)
 
