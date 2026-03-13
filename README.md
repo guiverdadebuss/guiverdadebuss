@@ -4,17 +4,11 @@ I am Gui, pleasure to meet you!
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,figma,github,linux,py,visualstudio,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,visualstudio,vscode,cpp,cs,py,html,css,figma,github,linux,)](https://skillicons.dev)
 
 Studying and improving... getting better day by day...
 Developing to become a Charizard one day!
-
 <br />
-
-### Tocando no Spotify 🎧
-[![Spotify](https://novatorem-rho.vercel.app/api/spotify)](https://open.spotify.com/user/qafewa5yyynzm3mozdtsywibq)
-
-
 ### Conecte-se comigo!
 
 [<img align="left" alt="D4T4TR4CK3R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
