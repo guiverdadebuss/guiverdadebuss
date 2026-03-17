@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I am Gui 👋
 
-I am Gui, pleasure to meet you!
+Pleasure to meet you!
 
 ## Skills:
 
